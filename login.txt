@@ -1,1 +1,1 @@
-input("digite seu username: ")
+input("digite seu username e senha: ")
